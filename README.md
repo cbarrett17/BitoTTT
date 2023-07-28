@@ -34,4 +34,13 @@
     - Implement a smarter computer AI using minimax algorithm for a more challenging opponent.
     - Add error handling for invalid user inputs.
 
-Here's a basic outline for a one-player Tic Tac Toe game in Java. You can implement the methods and logic based on this outline. Remember to add more details and error handling as needed to make the game robust and user-friendly.
+Here's a basic outline for a one-player Tic Tac Toe game in Java. You can implement the methods and logic based on this outline. 
+Remember to add more details and error handling as needed to make the game robust and user-friendly.
+
+## Project Structure
+BitoTTT
+
+      ├── Main.java
+      ├── Board.java
+      ├── Player.java
+      └── Game.java
